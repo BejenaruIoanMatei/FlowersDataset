@@ -1,0 +1,16 @@
+# Ignora mediul virtual
+venv
+
+# Ignora cache-ul si fisierele temporare
+__pycache__/
+*.pyc 
+*.pyo 
+
+# Ignora fisierele de configurare ale sistemului
+.DS_Store
+
+# Personal data
+.env
+
+# App
+app
